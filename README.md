@@ -24,7 +24,7 @@ this project is a team generator, you enter the information of your team and it 
 To install necessary dependencies, run the following command:
 
 ```
-npm i
+npm i, npm install jest
 ```
 
 ## Usage
@@ -44,8 +44,9 @@ Open repo
 To run tests, run the command:
 
 ```
-npm test
+npm run test
 ```
+Link for demo video. https://drive.google.com/file/d/1aSUcSLQ_c2Q3vMH9ty0QcM4X9IVEo-j8/view
 
 ## Qestions
 
